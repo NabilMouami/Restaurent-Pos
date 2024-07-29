@@ -30,7 +30,7 @@ const RightDivTop = () => {
         </svg>
         <div className="flex items-center space-x-2">
           <div>
-            <p className="text-right font-semibold">Jamal Hmida</p>
+            <p className="text-right font-semibold">Ahmed Cabli</p>
             <p
               style={{
                 fontSize: "10px",
